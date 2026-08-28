@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Huzaifa%20Naseer%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineer%20%7C%20Software%20Engineer%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Huzaifa%20Naseer%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://huzaifanaseerdev.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+functional+web+experiences;Currently+leveling+up+in+JavaScript+%26+TypeScript;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+collaboration+%26+new+ideas&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=20&pause=1500"/>
